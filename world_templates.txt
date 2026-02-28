@@ -1,0 +1,3 @@
+https://mcpedl.com/ultimate-survival-world/;Ultimate Survival World;Большой survival-мир с постройками и лутом;MCPEDL;0;0;normal
+https://mcpedl.com/medieval-city-map/;Medieval City;Средневековый город как шаблон мира;MCPEDL;0;0;popular
+https://mcpedl.com/fantasy-kingdom-map/;Fantasy Kingdom;Фэнтези-королевство для приключений;MCPEDL;0;0;normal
