@@ -1,0 +1,5 @@
+https://www.curseforge.com/minecraft-bedrock/addons/instant-structures-add-on/files/7429156;Instant Structures;Аддон для мгновенного строительства структур;XelaGamer;0;0;popular
+https://www.curseforge.com/minecraft-bedrock/addons/poke-revival-bedrock-addon/files/7593141;Pokemon Revival;Добавляет покемонов в Minecraft Bedrock;RevivalTeam;0;0;popular
+https://mcpedl.com/one-player-sleep-addon/;One Player Sleep;Позволяет пропускать ночь одному игроку;MCPEDL;0;0;normal
+https://mcpedl.com/vein-miner-addon/;Vein Miner;Быстрая добыча ресурсов с помощью vein mining;ThePixelPanda;0;0;popular
+https://mcpedl.com/gravity-gun-addon/;Gravity Gun;Аддон с гравитационной пушкой;MCPEDL;0;0;normal
