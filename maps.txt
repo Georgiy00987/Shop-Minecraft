@@ -1,0 +1,5 @@
+https://www.curseforge.com/minecraft-bedrock/maps/lucky-block-race-4/files/7320194;Lucky Block Race;Мини-игра с лаки-блоками для Bedrock Edition;UnicornStudio;0;0;popular
+https://mcpedl.com/island-house-map/;Island House;Survival-карта с домом на острове;MCPEDL;0;0;normal
+https://www.minecraftmaps.com/bedrock/pvp-world;PvP World;Карта для PvP-сражений в Bedrock Edition;MinecraftMaps;0;0;normal
+https://mcpedl.com/skyblock-bedrock-edition/;SkyBlock;Классический SkyBlock для Bedrock Edition;Noobcrew;0;0;popular
+https://mcpedl.com/zombie-apocalypse-map/;Zombie Apocalypse;Карта на выживание в мире зомби-апокалипсиса;MCPEDL;0;0;normal
