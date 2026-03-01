@@ -1,5 +1,5 @@
 https://www.curseforge.com/minecraft-bedrock/texture-packs/vibrant-legacy-uncanny/files/7612412;Vibrant Legacy Uncanny;Яркий и детализированный texture pack для Bedrock Edition;VibrantLegacy;0;0;popular
 https://www.curseforge.com/minecraft-bedrock/texture-packs/faithful-32x-bedrock/files/7851631;Faithful 32x Bedrock;Faithful-текстуры в разрешении 32x для Bedrock;FaithfulTeam;0;0;popular
 https://mcpedl.com/eclipse-2k/;Eclipse 2k;Минималистичный texture pack 2x2 для Bedrock Edition;MCPEDL;0;0;normal
-https://mcpedl.com/bare-bones-bedrock/;Bare Bones;Мультяшный стиль текстур в духе трейлеров Minecraft;RobotPantaloons;2;0;popular
+https://mcpedl.com/bare-bones-bedrock/;Bare Bones;Мультяшный стиль текстур в духе трейлеров Minecraft;RobotPantaloons;3;0;popular
 https://mcpedl.com/stay-true/;Stay True;Улучшенные ванильные текстуры без сильных изменений;Ha3apeti;0;0;normal
