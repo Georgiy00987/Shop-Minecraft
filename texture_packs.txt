@@ -3,4 +3,3 @@ https://www.curseforge.com/minecraft-bedrock/texture-packs/faithful-32x-bedrock/
 https://mcpedl.com/eclipse-2k/;Eclipse 2k;Минималистичный texture pack 2x2 для Bedrock Edition;MCPEDL;0;0;normal
 https://mcpedl.com/bare-bones-bedrock/;Bare Bones;Мультяшный стиль текстур в духе трейлеров Minecraft;RobotPantaloons;4;0;popular
 https://mcpedl.com/stay-true/;Stay True;Улучшенные ванильные текстуры без сильных изменений;Ha3apeti;1;0;normal
-;Jkekf;;Djfjj;0;0;normal
